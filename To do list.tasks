@@ -1,0 +1,30 @@
+{"deleted":true,"desc":"","last_edited":1550237186917,"position":0.25,"task_id":"848b8898-7f0a-4c29-bdfa-7d7331ebf2e6"}
+{"desc":"Add axis titles and titles to plots- have colours for above and below?\n","done":true,"last_edited":1553346599279,"position":-4,"task_id":"830325c3-9f4c-4135-a657-40ff59f83a2a"}
+{"desc":"Clean the data (both wierd values and useless coloms)","done":true,"last_edited":1553122402498,"position":1.375,"task_id":"014d05db-4a4f-4df4-8570-c32877e6b737"}
+{"desc":"Drop all unused collomns\n","done":true,"last_edited":1553127431522,"position":-18,"task_id":"1f51d6c8-83c4-40dd-92a5-3bb7d36941da"}
+{"desc":"Finding the files to use","done":true,"last_edited":1553122391370,"position":0.375,"task_id":"e87b6f59-00f3-46ec-bc8a-e3443baeed71"}
+{"desc":"Go through all our CoCalc files and delete unnecessary ones\n","done":true,"last_edited":1553901770005,"position":-13,"task_id":"72c6ac1d-9ad0-489b-93d2-469ef90fcb85"}
+{"desc":"Have enough analysis and a presentation written, 7 min over limit worth of analisis","done":true,"due_date":1553089647461,"last_edited":1553122363342,"position":2.625,"task_id":"6b4d6953-5d22-4f18-93e9-4bf2612a3664"}
+{"desc":"Have we used the setup file in the directory properly, or at all?\n","done":true,"last_edited":1553100327044,"position":-17,"task_id":"deb5c559-4cb0-484d-9d59-8e65bd93b87d"}
+{"desc":"Insert new PPERSABS15 absence analysis\n","done":true,"last_edited":1553100357651,"position":-11,"task_id":"149eff85-a8cf-47c8-a22e-7dc1741ce741"}
+{"desc":"Insert no2 and PERCTOT absence explanation\n","done":true,"last_edited":1553100361243,"position":-10,"task_id":"a4001775-5e18-4670-8975-f22de2ac5fd3"}
+{"desc":"Insert the literature review into relevant places\n","done":true,"last_edited":1553346603186,"position":-2,"task_id":"85a41533-dcef-44c3-bc4c-4c3654af97eb"}
+{"desc":"Make sure code has clear and relevant names\n","done":true,"last_edited":1553901779096,"position":-7,"task_id":"b21187e0-607d-40ad-92e3-780573b97e46"}
+{"desc":"Make sure we have evidence of feedback","done":true,"last_edited":1553346594419,"position":-6,"task_id":"96c49a4a-5021-41b2-8af5-ca3f297044a2"}
+{"desc":"Make sure we have explained about the ram issue and creating new CSV files using excel, and have the new and old excel in the directory\n","done":true,"last_edited":1553100333315,"position":-14,"task_id":"12532863-999b-4698-a07e-695c49dedd2b"}
+{"desc":"Merge the files in one table","done":true,"last_edited":1553122403945,"position":0.875,"task_id":"fc40a93f-7175-432e-8571-9fbb2e20a805"}
+{"desc":"Messy performance data needs sorting out, what to use and what doesn’t work, lots of plots and stuff\n","done":true,"last_edited":1553346621396,"position":-16,"task_id":"d8554fcf-5280-44fa-927d-50a5164abf1f"}
+{"desc":"Move over the question explanation-add that no one else has studied this","done":true,"last_edited":1553901781973,"position":-1,"task_id":"57654830-1cf5-4b6a-948e-d4a7161f1544"}
+{"desc":"Need to check grammar and how easy it is to understand, especially really wordy bits like the literature review and question explanation\n","done":true,"last_edited":1553901775332,"position":-9,"task_id":"ba627bb4-ba01-45f8-b2c1-54331becbdff"}
+{"desc":"Need to have legends that explain what the plot shows under every plot","done":true,"last_edited":1554050485633,"position":-8,"task_id":"3bf794bd-784c-4c42-b169-37a0408aeaca"}
+{"desc":"PROJECT DUE","done":true,"due_date":1553936400000,"last_edited":1553901784182,"position":3.375,"task_id":"b51f4717-9255-4fca-99fa-4d4c80548b3c"}
+{"desc":"Presentation PowerPoint and script\n","done":true,"last_edited":1553346601403,"position":-3,"task_id":"3ef40ff0-39ef-4fa7-92ae-df5884b36532"}
+{"desc":"Presentation due","done":true,"due_date":1553245200000,"last_edited":1553346612893,"position":2.875,"task_id":"d3f4b20f-3b30-474f-a4a0-74b10c8e0e4e"}
+{"desc":"Progress reports due","done":true,"due_date":1552035600000,"last_edited":1552430290275,"position":2.375,"task_id":"3859c863-ae39-4e3b-a624-bd5956bca636"}
+{"desc":"Remove code that fails, or find way to fix it","done":true,"last_edited":1553346595429,"position":-5,"task_id":"52f50d3a-13b6-4626-8038-4b9e42853a8a"}
+{"desc":"Set up a meeting with TA to ask him to go through everything before we submit, to give us tips and corrections\n","done":true,"last_edited":1553346582000,"position":-9.5,"task_id":"08cff86e-3b6c-4158-b098-b0cecb09c633"}
+{"desc":"Simulation for performance data","done":true,"due_date":1552210437073,"last_edited":1552430279912,"position":0.09375,"task_id":"e70e770e-c630-40ec-bfc2-7d848162d288"}
+{"desc":"Test the CoCalc notebook on a friends laptop to check it works on a laptop where they don’t have the data already downloaded\n","done":true,"last_edited":1553901771461,"position":-12,"task_id":"98cad773-5c37-4b8b-ab19-ce39b3c80cbb"}
+{"desc":"Use scatter plot to find corelation","done":true,"last_edited":1553122401786,"position":1.875,"task_id":"79f516e1-b549-4c8a-9016-b6604dccafe0"}
+{"desc":"decide the questions","done":true,"last_edited":1551432803871,"position":0.046875,"task_id":"14fe621a-faf1-444c-9c86-3d87e07cce00"}
+{"desc":"make workflow","done":true,"due_date":1550409458290,"last_edited":1550238044931,"position":0,"task_id":"7e160818-af69-4e1b-8495-5d168b9e7fe3"}
